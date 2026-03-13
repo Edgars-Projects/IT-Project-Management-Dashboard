@@ -67,5 +67,5 @@ These are core activities typically performed by IT project coordinators and pro
 
 ## Author
 
-Francis [Your Surname]  
+Edgar Nwaojei  
 MSc IT Project Management Student
